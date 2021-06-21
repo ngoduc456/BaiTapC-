@@ -1,0 +1,80 @@
+﻿@model PagedList.IPagedList<ModelEF.Model.UserAccount>
+@using PagedList.Mvc
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/DOTNETGROUP/Views/Shared/_Layout.cshtml";
+}
+
+@section Header{
+    USER
+}
+@using (Html.BeginForm("Index", "User", FormMethod.Get))
+{
+
+    <div class="row">
+        <div class="row form-group col-lg-12">
+            @Html.ActionLink("Create New", "Create", "User", new { @class = "btn btn-danger" })
+        </div>
+        <div class="row form-group col-lg-12">
+            <div class="col-md-3 "><input type="text" name="searchString"placeholder="Enter Keyword" value="@ViewBag.SearchKeyWord" /></div>
+            <div class="col-md-3 "><input type="submit" value="Search" class="btn btn-success" /></div>
+
+        </div>
+    </div>
+}
+
+
+
+
+<div>
+    <div>
+
+
+        <table class="table table-striped table-hover table-bordered ">
+            <tr>
+                <th>
+                    STT
+                </th>
+                <th>
+                    Name User
+                </th>
+                <th>
+                    Describe
+                </th>
+                <th></th>
+            </tr>
+            @{var i = 1;}
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td align="center">
+                        @i
+                    </td>
+                    <td>
+                        @item.UserName
+                    </td>
+
+                    <td>
+                        @item.TrThai
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", "User", new { @class = "btn btn-success" }) |
+                        @Html.ActionLink("Details", "Details", "User", new { @class = "btn btn-success" }) |
+                        @Html.ActionLink("Delete", "Delete", "User", new { @class = "btn btn-success" })
+                    </td>
+                </tr>
+
+                i++;
+            }
+
+    </div>
+
+
+
+
+
+    </table>
+    @Html.PagedListPager(Model, page => Url.Action("Index", new {page,searchString = ViewBag.SearchKeyWord }))
+</div>

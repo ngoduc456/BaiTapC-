@@ -1,0 +1,64 @@
+D:\C#\LT C\NguyenMinhMan\ModelEF\bin\Debug\ModelEF.dll.config
+D:\C#\LT C\NguyenMinhMan\ModelEF\bin\Debug\ModelEF.dll
+D:\C#\LT C\NguyenMinhMan\ModelEF\bin\Debug\ModelEF.pdb
+D:\C#\LT C\NguyenMinhMan\ModelEF\bin\Debug\EntityFramework.dll
+D:\C#\LT C\NguyenMinhMan\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\LT C\NguyenMinhMan\ModelEF\bin\Debug\EntityFramework.xml
+D:\C#\LT C\NguyenMinhMan\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\LT C\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+D:\C#\LT C\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+D:\C#\LT C\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+D:\C#\LT C\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.dll
+D:\C#\LT C\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.pdb
+D:\C#\LT C\NguyenMinhMan\ModelEF\bin\Debug\PagedList.dll
+D:\C#\LT C\NguyenMinhMan\ModelEF\bin\Debug\PagedList.Mvc.dll
+D:\C#\LT C\NguyenMinhMan\ModelEF\bin\Debug\PagedList.xml
+D:\C#\LT C\NguyenMinhMan\ModelEF\bin\Debug\PagedList.Mvc.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.csproj.AssemblyReference.cache
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\bin\Debug\PagedList.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\bin\Debug\PagedList.Mvc.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\bin\Debug\PagedList.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\bin\Debug\PagedList.Mvc.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\bin\Debug\PagedList.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\bin\Debug\PagedList.Mvc.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\bin\Debug\PagedList.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\bin\Debug\PagedList.Mvc.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.csproj.AssemblyReference.cache
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NguyenMinhMan\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\bin\Debug\PagedList.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\bin\Debug\PagedList.Mvc.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\bin\Debug\PagedList.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\bin\Debug\PagedList.Mvc.xml
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\obj\Debug\ModelEF.csproj.AssemblyReference.cache
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\baoth\OneDrive\Desktop\LT C\New folder\NgocDuc\ModelEF\obj\Debug\ModelEF.pdb
